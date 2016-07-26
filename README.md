@@ -73,6 +73,6 @@
 #版本
 支持iOS7.0及以上。
 #效果图
-![](http://i3.tietuku.com/0990bb27003cb591.gif)
+![](https://github.com/AsTryE/Images/blob/master/Resoures/submitAnimation.gif)
 
 
